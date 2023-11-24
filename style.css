@@ -1,0 +1,135 @@
+body{
+    font-family: sans-serif;
+    background-color: #00c2bf;
+    margin: -10px;
+  }
+  
+  h1{
+    border: 5px solid black;
+    background: #006149;
+    font-size: 40px;
+    color: white;
+    text-align: center;
+  }
+  h2{
+    margin-top: 50px;
+    border: 3px solid black;
+    background-color: #006149;
+    color: black;
+    text-align: center;
+  }
+  
+  h3{
+    margin-top: 50px;
+    border: 3px solid black;
+    background-color: #006149;
+    color: black;
+    text-align: center;
+  }
+  
+  #menu li {
+    display: inline-block;
+    float: center;
+  }
+  
+  #menu {
+    border: 3px solid black;
+    background-color: #212121;
+    overflow: hidden;
+    margin: 10px;
+    margin-left: -10px;
+    margin-right: -10px;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  #menu a {
+    border: 5px solid black;
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    margin-left: -4px;
+    margin-right: -4px;
+  }
+  
+  #menu a:hover {
+    color: black;
+    background-color: white;
+    font-size: 20px;
+  }
+  
+  #menu a:active {
+    color: white;
+    background-color: black;
+    font-size: 15px;
+  }
+  
+  #title {
+    color: white;
+  }
+  
+  p.home{
+    margin: 10px;
+    color: black;
+    text-align: center;
+  }
+  
+  a.link{
+    text-decoration: none;
+    color: black;
+  }
+  
+  a.link:hover{
+    font-size: 20px;
+    color: white;
+  }
+  
+  a.link:active{
+    font-size: 15px;
+    color: #000000;
+  }
+  
+  p.antwoord{
+    border: 5px solid black;
+    background-color: #027e5f;
+    color: #ffffff;
+    text-align: center;
+  }
+  
+  a.good{
+    color: #027e5f;
+  }
+  
+  a.bad{
+    color: #027e5f;
+  }
+  
+  a.good:active{
+    color: lime;
+  }
+  
+  a.bad:active{
+    color: red;
+  }
+  
+  table{
+    border:5px solid #000000;
+    margin: 50px;
+    margin-left: 630px;
+  }
+  
+  table th{
+    border:2px solid #000000;
+    background-color: #027e5f;
+  }
+  
+  table td{
+    border:2px solid #000000;
+    background-color: #014b39;
+  }
+  
+  p.list{
+    margin: 10px;
+    color: black;
+    text-align: center;
+  }
